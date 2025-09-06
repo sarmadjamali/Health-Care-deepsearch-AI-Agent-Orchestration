@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Muhammad Umair",
+        "password": "jam123",
+        "email": "jamali@gmail.com",
+        "isDoctor": true
+    },
+    {
+        "name": "Sajeel",
+        "password": "jam123",
+        "email": "sajeel@gmail.com",
+        "patient": true
+    },
+    {
+        "email": "taqi@gmail.com",
+        "password": "jam123",
+        "name": "taqi bruro",
+        "isDoctor": false
+    },
+    {
+        "email": "sarmadjamali1@gmail.com",
+        "password": "81b681b4",
+        "name": "sarmad jamali",
+        "isDoctor": false
+    }
+]
